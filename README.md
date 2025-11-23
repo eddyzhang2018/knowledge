@@ -1,4 +1,4 @@
-# My Vault for Interesting Papers in quantiative finance, factor investing, asset allocation and finance machine learning.
+# My Vault for Interesting Papers/Blog Posts/White Paper/ in quantiative finance, factor investing, asset allocation and finance machine learning.
 
 The repo saves papers for the following area:
 
