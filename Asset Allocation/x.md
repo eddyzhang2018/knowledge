@@ -1,1 +1,1 @@
-1. Eychenne, Karl and Martinetti, Stéphane and Roncalli, Thierry, Strategic Asset Allocation (March 2011). Available at SSRN: https://ssrn.com/abstract=2154021 or http://dx.doi.org/10.2139/ssrn.2154021
+1. Eychenne, Karl and Martinetti, Stéphane and Roncalli, Thierry, Strategic Asset Allocation (March 2011). Asset Allocation/Strategic Asset Allocation.pdf
